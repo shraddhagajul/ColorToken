@@ -1,0 +1,4 @@
+truffle migrate --network development (developmet == name in truffle-config.js) "location for terminal --> /home/shraddha/Amity_Docs/PGD-BTM-ethereum-module/advanced-development/color-token
+npm start 
+login Metamask
+Mint
